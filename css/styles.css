@@ -1,0 +1,29 @@
+/******************************************TAG SELECTORS******************************************/
+body{
+  background-color: #E2DCC8;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+title{
+  background-color: none;
+  color: #0F3D3E;
+}
+
+h1{
+  color: #0F3D3E;
+}
+
+h3{
+  color: #0F3D3E;
+}
+.testimonial{
+  text-align: center;
+}
